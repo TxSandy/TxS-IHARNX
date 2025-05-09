@@ -1,14 +1,19 @@
-import brainwave from "./brainwave.svg";
+import iharnc from "./iharnx.svg";
 import check from "./check.svg";
-import brainwaveSymbol from "./brainwave-symbol.svg";
-import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
+import iharnxSymbol from "./iharnx-symbol.svg";
 import play from "./play.svg";
 import gradient from "./gradient.png";
 import smallSphere from "./4-small.png";
 import grid from "./grid.png";
 import check2 from "./check-02.svg";
 import loading1 from "./loading-01.svg";
-import yourlogo from "./yourlogo.svg";
+
+import django from "./DJANGO.svg";
+import react from "./REACT.svg";
+import mysql from "./MYSQL.svg";
+import python from "./PYTHON.svg";
+import tailwind from "./TAILWIND.svg";
+
 import homeSmile from "./home-smile.svg";
 import file02 from "./file-02.svg";
 import searchMd from "./search-md.svg";
@@ -76,17 +81,16 @@ import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
 export {
-  brainwave,
+  iharnc,
   check,
   check2,
   loading1,
-  brainwaveSymbol,
-  brainwaveWhiteSymbol,
+  iharnxSymbol,
   play,
   gradient,
   smallSphere,
   grid,
-  yourlogo,
+  django,
   homeSmile,
   file02,
   searchMd,
@@ -144,4 +148,8 @@ export {
   instagram,
   telegram,
   twitter,
+  react,
+  mysql,
+  tailwind,
+  python,
 };
