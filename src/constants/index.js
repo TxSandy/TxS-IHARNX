@@ -48,27 +48,17 @@ export const navigation = [
   },
   {
     id: "1",
-    title: "Pricing",
-    url: "#pricing",
-  },
-  {
-    id: "2",
     title: "How to use",
     url: "#how-to-use",
   },
   {
-    id: "3",
-    title: "Roadmap",
-    url: "#roadmap",
-  },
-  {
-    id: "4",
+    id: "2",
     title: "New account",
     url: "#signup",
     onlyMobile: true,
   },
   {
-    id: "5",
+    id: "3",
     title: "Sign in",
     url: "#login",
     onlyMobile: true,
@@ -82,9 +72,9 @@ export const notificationImages = [notification4, notification3, notification2];
 export const companyLogos = [react, django, mysql, python, tailwind];
 
 export const brainwaveServices = [
-  "Photo generating",
-  "Photo enhance",
-  "Seamless Integration",
+  "Photo generating.[Soon]",
+  "Photo enhance.[Soon]",
+  "Seamless Integration.[Soon]",
 ];
 
 export const brainwaveServicesIcons = [
